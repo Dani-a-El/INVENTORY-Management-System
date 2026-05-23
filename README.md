@@ -91,7 +91,6 @@ Notes:
 ## Screenshots 
 Open frontend/ims app to access the screenshot folder with the UI interfaces.
 
-
 ## Future improvements
 
 - Add pagination, filtering and search on product lists
