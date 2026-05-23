@@ -205,7 +205,7 @@ class _StockInOutScreenState extends State<StockInOutScreen> {
                           ),
                           const SizedBox(height: 16),
                           DropdownButtonFormField<int>(
-                            value: _selectedProductId,
+                            initialValue: _selectedProductId,
                             decoration: const InputDecoration(
                               labelText: 'Select product',
                             ),
