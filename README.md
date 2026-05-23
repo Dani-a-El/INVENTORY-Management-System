@@ -1,6 +1,6 @@
 # IMS — Inventory Management System
 
-A small student-built Inventory Management System (IMS) with a simple Python backend and a Flutter frontend. I built this as a final-year / learning project to practice full-stack development: designing REST APIs with FastAPI, persisting data with SQLite/MySQL, and building a cross-platform UI in Flutter.
+An Inventory Management System (IMS) with a simple Python backend and a Flutter frontend. I built this as a final-year / learning project to practice full-stack development: designing REST APIs with FastAPI, persisting data with SQLite/MySQL, and building a cross-platform UI in Flutter.
 
 ## Project overview
 
@@ -88,12 +88,9 @@ Notes:
 - `docker-compose.yml` — helper to start a MySQL container and the backend
 - `database.sql` — initial SQL to seed MySQL when using Docker Compose
 
-## Screenshots / Demo
+## Screenshots 
+Open frontend/ims app to access the screenshot folder with the UI interfaces.
 
-_(Add screenshots here when available)_
-
-- Dashboard screenshot: ./screenshots/dashboard.png (placeholder)
-- Product list screenshot: ./screenshots/products.png (placeholder)
 
 ## Future improvements
 
@@ -103,11 +100,3 @@ _(Add screenshots here when available)_
 - Add CSV import/export for bulk product updates
 - Add automated tests for the backend endpoints
 - Add CI workflow for linting and running tests
-
----
-
-If you want, I can also:
-- add example screenshots to `frontend/ims_app/screenshots/` (grabbed from the emulator)
-- wire up a small Postman/Insomnia collection for quickly exercising the API
-
-Enjoy — and feel free to ask me to tweak the README tone or add more setup examples.
