@@ -1,6 +1,6 @@
 # IMS — Inventory Management System
 
-An Inventory Management System (IMS) with a simple Python backend and a Flutter frontend. I built this as a final-year / learning project to practice full-stack development: designing REST APIs with FastAPI, persisting data with SQLite/MySQL, and building a cross-platform UI in Flutter.
+An Inventory Management System (IMS) with a simple Python backend and a Flutter frontend. I built this app to practice full-stack development: designing REST APIs with FastAPI, persisting data with SQLite/MySQL, and building a cross-platform UI in Flutter.
 
 ## Project overview
 
